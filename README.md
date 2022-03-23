@@ -1,5 +1,4 @@
-# win9x_patch_boot
-Windows 95/98/ME Bootable Patch
+# Windows 95/98/ME Bootable Patch
 
 ## Instructions:
 1) Download the floppy image
